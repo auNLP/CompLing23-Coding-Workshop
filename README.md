@@ -1,8 +1,6 @@
 # CompLing23 Coding Workshop #
 
 
-Keep yourself updated on changes in the [CURRICULUM](https://github.com/CHCAA-EDUX/scientific-computing-01/blob/main/CURRICULUM.md)
-
 ---
 
 In this workshop, you will get introduced to programming principles, project management, cloud computing, and version control.
